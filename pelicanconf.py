@@ -40,14 +40,15 @@ PATH = 'content'
 BOOTSTRAP_THEME = ""
 
 STATIC_PATHS = ['images',
-    'extras/css/d0x3d.css', 'extras/CNAME',
-    'extras/google14081f6503dca9ab', # req'd for Google+ website verification
+    'extras/css/d0x3d.css',
+    #'extras/CNAME',
+    #'extras/google14081f6503dca9ab', # req'd for Google+ website verification
 ]
 
 EXTRA_PATH_METADATA = {
     'extras/css/d0x3d.css': {'path': 'css/d0x3d.css'},
-    'extras/CNAME' : {'path': 'CNAME'},
-    'extras/google14081f6503dca9ab' : {'path' : 'google14081f6503dca9ab.html'},
+    #'extras/CNAME' : {'path': 'CNAME'},
+    #'extras/google14081f6503dca9ab' : {'path' : 'google14081f6503dca9ab.html'},
 }
 
 # Category options
