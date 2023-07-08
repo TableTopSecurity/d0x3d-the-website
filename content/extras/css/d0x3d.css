@@ -160,7 +160,7 @@ a.anchor {
 }
 
 .game-jumbo-home {
-  background-image: url("/images/banner0.png");
+  background-image: url("../images/banner0.png");
   padding-top: 120px;
 }
 
@@ -172,13 +172,13 @@ a.anchor {
 }
 
 .game-jumbo-about, .game-jumbo-media {
-  background-image: url("/images/banner1.png");
+  background-image: url("../images/banner1.png");
 }
 .game-jumbo-get, .game-jumbo-faq {
-  background-image: url("/images/banner2.png");
+  background-image: url("../images/banner2.png");
 }
 .game-jumbo-ideas {
-  background-image: url("/images/banner3.png");
+  background-image: url("../images/banner3.png");
 }
 
 #game-jumbo h1 {
@@ -214,17 +214,17 @@ a.anchor {
 
 .game-body-green {
   background-color: green;
-  background-image: url("/images/green-shapeimage.png");
+  background-image: url("../images/green-shapeimage.png");
 }
 
 .game-body-blue {
   background-color: lightblue;
-  background-image: url("/images/blue-shapeimage.png");
+  background-image: url("../images/blue-shapeimage.png");
 }
 
 .game-body-orange {
   background-color: orange;
-  background-image: url("/images/orange-shapeimage.png");
+  background-image: url("../images/orange-shapeimage.png");
 }
 
 /* custom panel styles */
@@ -243,7 +243,7 @@ a.anchor {
 /* background */
 body {
     background-color: rgb(247, 246, 246);
-    background-image: url("/images/wallpaper.jpg");
+    background-image: url("../images/wallpaper.jpg");
     background-repeat: repeat;
     overflow-x: scroll;
     margin: 0pt;
