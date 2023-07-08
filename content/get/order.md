@@ -14,7 +14,7 @@ Production quality versions of [d0x3d!] are available for purchase at:
  - [ [d0x3d!] ](https://www.thegamecrafter.com/games/-d0x3d-): this edition includes everything you need to play [d0x3d!]: decks, tiles, pawns, chips and rules, packaged in a handsome black box.
  - [ [d0x3d!]: zero frills](https://www.thegamecrafter.com/games/-d0x3d-:-zero-frills-edition) includes everything above, in a standard box, without the organizational insert and without an instruction manual – a slightly cheaper way to buy copies for group play.
 
-<img class="pull-right game-tile" src="/images/firewall.png" alt="" />
+<img class="pull-right game-tile" src="./images/firewall.png" alt="" />
 
 Customizable [digital asset drive] mats are [available here](https://raw.github.com/TableTopSecurity/d0x3d-the-game/master/self-print/300-dpi-png/mats/asset-drive_customizable.png).
 
