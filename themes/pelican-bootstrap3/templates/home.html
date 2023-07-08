@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
+{% block breadcrumbs %}
+    {% if DISPLAY_BREADCRUMBS %}
+    <ol class="breadcrumb">
+        <li><a href="{{ SITEURL }}" title="{{ SITENAME }}"><i class="fa fa-home fa-lg"></i></a></li>
+        <li class="active">Media</li>
+    </ol>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <section id="content" class="center-block">
+        <div class="game-jumbo jumbotron{% if page.slug %} game-jumbo-{{ page.slug }}{% endif %}" >
+            {% if JUMBOLOGO %}
+               {% include 'includes/twitter_button.html' %}
+            <img class="img-responsive pull-left gap-right" src="{{ SITEURL }}/{{ JUMBOLOGO }}" alt=""/>
+            <div class="clearfix">&nbsp;</div>
+            {% endif %}
+        </div>
+
+        <div class="entry-content">
+
+          <div class="container-fluid">
+          <div class="row equal">
+				{% for article in articles|sort(attribute='date') if article.category.name == page.slug and article.slug != 'foot'%}
+
+                <div class="col-md-6">
+                  <div class="panel game-home-panel" {% if article.slug %} id={{article.slug}}{% endif %}>
+                      <div class="panel-heading">
+                         <div class="panel-title game-title{% if article.align == 'right' %} game-title-right{% endif %}">
+                            <span class="game-bracket">[</span>{{ article.title }}<span class="game-bracket">]</span>
+                         </div>
+                      </div>
+                    <div class="clearfix">&nbsp;</div>
+                    <div class="panel-body game-body{% if article.color %} game-body-{{ article.color }}{% endif %}">{{ article.summary }}</div>
+                  </div>
+                </div>
+				{% endfor %}
+          </div>
+          </div>
+
+        {% for article in articles|sort(attribute='date') if article.category.name == page.slug and article.slug == 'foot'%}
+        <div class="panel col-md-12"{% if article.slug %} id={{article.slug}}{% endif %}>
+            <div class="panel-body game-body{% if article.color %} game-body-{{ article.color }}{% endif %}">{{ article.summary }}</div>
+        </div>
+        {% endfor %}
+        </div>
+    </section>
+{% endblock %}

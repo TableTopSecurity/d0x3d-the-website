@@ -1,0 +1,268 @@
+.red {
+	color: #ff0000;
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width:992px) {
+    #sidebar {
+        position: fixed;
+        height: 100%;
+        width:inherit;
+        margin: inherit;
+        border:10px;
+        padding: 0px 5px 0px 5px;
+    }
+    #main {
+        float:right;
+    }
+}
+
+#sidebar {
+    background-color: rgb(72, 63, 57);
+}
+
+#sidebar a {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+#content a {
+    text-decoration: none;
+    border-bottom: 2px dotted;
+}
+
+#content a:hover {
+    color: black;
+    text-shadow: 1px 1px 2px white;
+}
+
+/* make the font-awesome icond that are links in the body larger */
+#main .body a i.fa {
+    font-size: medium;
+}
+
+.img-thumbnail {
+	border-radius: 50%;
+	width: 80%;
+	height:auto;
+	max-width: 250px;
+}
+
+.img-about {
+	float: left;
+	width: 72px;
+	margin: -6px 10px 0 0;
+}
+
+img.img-center {
+    display: block;
+    margin: 0 auto;
+}
+
+.navbar-brand > img {
+	float: left;
+	margin: -8px 2px 0 0;
+}
+
+.navbar-default {
+    background-color: #ffffff;
+    border-color: #e7e7e7;
+}
+
+.navbar-right li.social-bar a {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#navbar-affix.affix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:10;
+    margin: auto;
+}
+
+.navbar-wrapper {
+    min-height:50px;
+}
+
+.blog-post {
+	padding: 12px 0 28px;
+}
+
+body {
+	line-height: 1.25;
+	padding-top: 50px;
+}
+
+body.home {
+	padding-top:0px !important;
+}
+
+body.home div#banner {
+	margin: 0px;
+}
+
+/* http://nicolasgallagher.com/jump-links-and-viewport-positioning/demo/#method-C */
+a.anchor {
+    padding-top: 60px;
+    z-index:-10;
+    position: relative;
+}
+
+/* styling for panels with game info */
+
+.panel {
+    background: none;
+}
+.panel-heading {
+    position: relative;
+    background-color: none;
+}
+.game-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: normal;
+    width: fit-content;
+
+    background-color: white;
+    border: 4px solid black;
+    padding: 10px;
+    font-family: "Courier New", monospace;
+
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+    z-index: 1;
+    position: absolute;
+}
+.game-title-right {
+    right: 10px;
+}
+
+.game-bracket {
+  color: black;
+}
+
+.game-name {
+  color: red;
+}
+
+#game-jumbo, .game-jumbo {
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  text-shadow: 1px 1px 2px white;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.game-jumbo-home {
+  background-image: url("/images/banner0.png");
+  padding-top: 120px;
+}
+
+.game-jumbo-home img {
+    border: none;
+    width: 300px;
+    background-color: white;
+    border: 4px solid black;
+}
+
+.game-jumbo-about, .game-jumbo-media {
+  background-image: url("/images/banner1.png");
+}
+.game-jumbo-get, .game-jumbo-faq {
+  background-image: url("/images/banner2.png");
+}
+.game-jumbo-ideas {
+  background-image: url("/images/banner3.png");
+}
+
+#game-jumbo h1 {
+  font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', 'Arial', sans-serif;
+  font-weight: bold;
+  font-stretch: condensed;
+  font-style: normal;
+  font-variant: normal;
+}
+
+.game-body {
+  background-color: green;
+  border-radius: 10px;
+  color: white;
+  text-shadow: 1px 1px 2px black;
+  border: 4px solid black;
+  font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', 'Arial', sans-serif;
+  font-stretch: condensed;
+  font-weight: normal;
+  font-style: normal;
+  font-variant: normal;
+  font-size: 20px;
+  padding: 40px;
+}
+
+.game-home-panel {
+    height: 80%;
+}
+
+.game-home-panel .game-body {
+    height: 100%;
+}
+
+.game-body-green {
+  background-color: green;
+  background-image: url("/images/green-shapeimage.png");
+}
+
+.game-body-blue {
+  background-color: lightblue;
+  background-image: url("/images/blue-shapeimage.png");
+}
+
+.game-body-orange {
+  background-color: orange;
+  background-image: url("/images/orange-shapeimage.png");
+}
+
+/* custom panel styles */
+.game-tile {
+    padding: 10px;
+    z-index: 0;
+    position: relative;
+    bottom: -90px;
+    right: 0px;
+}
+
+#content.faq {
+  background-color: rgb(247, 246, 246);
+}
+
+/* background */
+body {
+    background-color: rgb(247, 246, 246);
+    background-image: url("/images/wallpaper.jpg");
+    background-repeat: repeat;
+    overflow-x: scroll;
+    margin: 0pt;
+}
+
+#content {
+    width: 80%;
+}
+
+/* https://stackoverflow.com/questions/19695784/how-can-i-make-bootstrap-columns-all-the-same-height */
+.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
+
+#twitter-follow-button-id {
+    position: relative;
+    bottom: -90px;
+    right: 0px;
+    z-index: 2;
+}

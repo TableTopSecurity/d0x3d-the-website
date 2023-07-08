@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
+{% block breadcrumbs %}
+    {% if DISPLAY_BREADCRUMBS %}
+    <ol class="breadcrumb">
+        <li><a href="{{ SITEURL }}" title="{{ SITENAME }}"><i class="fa fa-home fa-lg"></i></a></li>
+        <li class="active">Media</li>
+    </ol>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <section id="content" class="center-block">
+        <div id="game-jumbo" class="jumbotron{% if page.slug %} game-jumbo-{{ page.slug }}{% endif %}" >
+            <h1>{{ page.subtitle | replace("[d0x3d!]", d0x3d) }}</h1>
+        </div>
+
+        <div class="entry-content">
+				{% for article in articles|sort(attribute='date') if article.category.name == page.slug %}
+
+                <div class="panel"{% if article.slug %} id={{article.slug}}{% endif %}>
+                    <div class="panel-heading">
+                         <div class="panel-title game-title{% if article.align == 'right' %} game-title-right{% endif %}">
+                            <span class="game-bracket">[</span>{{ article.title }}<span class="game-bracket">]</span>
+                         </div>
+                    </div>
+                    <div class="clearfix">&nbsp;</div>
+                    <div class="panel-body game-body{% if article.color %} game-body-{{ article.color }}{% endif %}">{{ article.summary }}</div>
+                </div>
+				{% endfor %}
+        </div>
+    </section>
+{% endblock %}
