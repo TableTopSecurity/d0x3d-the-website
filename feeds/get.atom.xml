@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>[d0x3d!] - get</title><link href="//www.d0x3d.com/" rel="alternate"></link><link href="//www.d0x3d.com/feeds/get.atom.xml" rel="self"></link><id>//www.d0x3d.com/</id><updated>2023-07-04T00:00:00-07:00</updated><entry><title>errata</title><link href="//www.d0x3d.com/article/errata.html" rel="alternate"></link><published>2023-07-04T00:00:00-07:00</published><updated>2023-07-04T00:00:00-07:00</updated><author><name>Mark Gondree</name></author><id>tag:www.d0x3d.com,2023-07-04:/article/errata.html</id><content type="html">&lt;p&gt;For games ordered or printed on or before December 29th, 2012:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Page 2 of the Instruction Manual should read "if the threat level reaches INFOCON Level 1" not "INFOCON Level 0"&lt;/li&gt;
+&lt;/ul&gt;</content><category term="get"></category></entry><entry><title>download</title><link href="//www.d0x3d.com/article/download.html" rel="alternate"></link><published>2023-07-03T00:00:00-07:00</published><updated>2023-07-03T00:00:00-07:00</updated><author><name>Mark Gondree</name></author><id>tag:www.d0x3d.com,2023-07-03:/article/download.html</id><content type="html">&lt;p&gt;[d0x3d!] is a 100% open-source game, licensed under a &lt;a href="https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"&gt;Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)&lt;/a&gt; License.&lt;/p&gt;
+&lt;p&gt;&lt;img class="pull-left game-tile" src="/images/router.png" width="200px" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;All game materials are freely available form our &lt;a href="https://github.com/TableTopSecurity/d0x3d-the-game"&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We encourage remixers to share their changes on the game's &lt;a href="http://groups.google.com/group/tabletopsecurity"&gt;Google Groups forum&lt;/a&gt; or tweet us pics &lt;a href="http://twitter.com/d0x3d"&gt;@d0x3d&lt;/a&gt;.&lt;/p&gt;</content><category term="get"></category></entry><entry><title>order</title><link href="//www.d0x3d.com/article/order.html" rel="alternate"></link><published>2023-07-02T00:00:00-07:00</published><updated>2023-07-02T00:00:00-07:00</updated><author><name>Mark Gondree</name></author><id>tag:www.d0x3d.com,2023-07-02:/article/order.html</id><content type="html">&lt;p&gt;Production quality versions of [d0x3d!] are available for purchase at:&lt;/p&gt;
+&lt;p style="text-align:center"&gt;
+&lt;a href="https://www.thegamecrafter.com/games/-d0x3d-"&gt;www.TheGameCrafter.com&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;[d0x3d!] comes in two editions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.thegamecrafter.com/games/-d0x3d-"&gt; [d0x3d!] &lt;/a&gt;: this edition includes everything you need to play [d0x3d!]: decks, tiles, pawns, chips and rules, packaged in a handsome black box.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.thegamecrafter.com/games/-d0x3d-:-zero-frills-edition"&gt; [d0x3d!]: zero frills&lt;/a&gt; includes everything above, in a standard box, without the organizational insert and without an instruction manual – a slightly cheaper way to buy copies for group play.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img class="pull-right game-tile" src="/images/firewall.png" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Customizable [digital asset drive] mats are &lt;a href="https://raw.github.com/TableTopSecurity/d0x3d-the-game/master/self-print/300-dpi-png/mats/asset-drive_customizable.png"&gt;available here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A PDF version of the instruction manual is &lt;a href="https://github.com/TableTopSecurity/d0x3d-the-game/blob/master/instructions/d0x3d-rules.pdf?raw=true"&gt;available here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;All games sold through The Game Crafter are offered at the lowest, allowable price.&lt;/p&gt;</content><category term="get"></category></entry></feed>

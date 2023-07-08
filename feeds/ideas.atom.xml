@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>[d0x3d!] - ideas</title><link href="//www.d0x3d.com/" rel="alternate"></link><link href="//www.d0x3d.com/feeds/ideas.atom.xml" rel="self"></link><id>//www.d0x3d.com/</id><updated>2023-07-03T00:00:00-07:00</updated><entry><title>for educators</title><link href="//www.d0x3d.com/article/for-educators.html" rel="alternate"></link><published>2023-07-03T00:00:00-07:00</published><updated>2023-07-03T00:00:00-07:00</updated><author><name>Mark Gondree</name></author><id>tag:www.d0x3d.com,2023-07-03:/article/for-educators.html</id><content type="html">&lt;div class="container-fluid text-center row"&gt;
+    &lt;div class="col-lg-12 col-md-12 col-sm-12"&gt;
+    &lt;iframe width="250" height="141" src="https://www.youtube.com/embed/SeO1wRl3tMc?showinfo=0;rel=0" frameborder="1" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;br&gt;[learn to play]
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Above is a 13 minute video, designed for in-class use, which explains the rules and core mechanics of [d0x3d!], including example game play.&lt;/p&gt;
+&lt;p&gt;We have developed three curriculum modules designed for teachers using [d0x3d!] in the classroom and parents playing at home:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://docs.google.com/document/d/1qEB4VMYcGYhE2bkDUrgZ5Eu2Ro4duPQkuxoZwhTb0yY/pub"&gt;Introduction to Digital Assets&lt;/a&gt; helps students explore the idea of digital assets in more depth, describes an exercise that helps them understand that digital data is valuable but can be valued differently, and to have them better appreciate the importance of securing the data we value in out own lived.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.google.com/document/d/1tDeXtUakidEiFVa5DI_QRasW1tUpk0939pJxN5BRmB0/pub"&gt;Meet the Hackers&lt;/a&gt; explores the idea of a hacker along with their varying motivations and goals.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.google.com/document/d/1rw0fqOODnyx5cdQOr8DnhkedLsJXPG14706p_LkarZc/pub"&gt;What is Social Engineering?&lt;/a&gt; is intended to demonstrate that computer security often transcends technology. Students will learn how a hacker can exploit weaknesses in culture and psychology and why they can be so effetive despite requiring little technical skill.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our &lt;a href="http://groups.google.com/group/tabletopsecurity"&gt;Google Groups forum&lt;/a&gt; is a great place for teachers and parents to share their experiences with [d0x3d!].&lt;/p&gt;
+&lt;p&gt;The mechanics of [d0x3d!] provide many other opportunities to discuss computer security issues outside of a computer science curriculum.&lt;/p&gt;
+&lt;p&gt;For example, consider the following activities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discuss network topology; have students rearrange the network in a way that makes it difficult for the hackers to achieve their goal&lt;/li&gt;
+&lt;li&gt;Lead a discussion on the ethics of hacking: in [d0x3d!], players hack into a network to recover assets that they believe belong to them. What are the legal and ethical implications of this?&lt;/li&gt;
+&lt;li&gt;Players develop, share and use zero-day exploits to cause immediate harm to network infrastructure; have students investigate uses of zero-days reported in the news.&lt;/li&gt;
+&lt;li&gt;Have students discuss and identify digital assets important in their live and then &lt;a href="/get"&gt;print out and customize&lt;/a&gt; their [digital asset drive] mats before playing.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="ideas"></category></entry><entry><title>jumping in</title><link href="//www.d0x3d.com/article/jumping-in.html" rel="alternate"></link><published>2023-07-02T00:00:00-07:00</published><updated>2023-07-02T00:00:00-07:00</updated><author><name>Mark Gondree</name></author><id>tag:www.d0x3d.com,2023-07-02:/article/jumping-in.html</id><content type="html">&lt;p&gt;The quickest way to get started is to watch these brief setup and gameplay videos:&lt;/p&gt;
+&lt;div class="container-fluid text-center row"&gt;
+    &lt;div class="col-lg-6 col-md-6 col-sm-6"&gt;
+        &lt;iframe width="250" height="141" src="https://www.youtube.com/embed/oMi-GB9tc6s?showinfo=0;rel=0" frameborder="1" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;br&gt;[game setup]
+    &lt;/div&gt;
+
+    &lt;div class="col-lg-6 col-md-6 col-sm-6"&gt;
+        &lt;iframe width="250" height="141" src="https://www.youtube.com/embed/Ys1vbaHo0DA?showinfo=0;rel=0" frameborder="1" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;br&gt;[game play]
+    &lt;/div&gt;
+&lt;/div&gt;</content><category term="ideas"></category></entry></feed>

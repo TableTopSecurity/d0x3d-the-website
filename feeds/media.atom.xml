@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>[d0x3d!] - media</title><link href="//www.d0x3d.com/" rel="alternate"></link><link href="//www.d0x3d.com/feeds/media.atom.xml" rel="self"></link><id>//www.d0x3d.com/</id><updated>2023-07-05T00:00:00-07:00</updated><entry><title>links</title><link href="//www.d0x3d.com/article/links.html" rel="alternate"></link><published>2023-07-05T00:00:00-07:00</published><updated>2023-07-05T00:00:00-07:00</updated><author><name>Mark Gondree</name></author><id>tag:www.d0x3d.com,2023-07-05:/article/links.html</id><content type="html">&lt;p&gt;&lt;a href="http://www.homeport.org/~adam/"&gt;Adam Shostack&lt;/a&gt; maintains a &lt;a href="http://www.homeport.org/~adam/games.html"&gt;tabletop security games&lt;/a&gt; page, as does &lt;a href="http://boardgamegeek.com/boardgamefamily/20584/hackers"&gt;Board Game Geek&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[d0x3d!] on &lt;a href="http://boardgamegeek.com/boardgame/134274/d0x3d"&gt;Board Game Geek&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check out photos of [d0x3d!] in action on our &lt;a href="http://www.flickr.com/photos/tabletopsecurity"&gt;Flickr page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Twitter &lt;a href="https://twitter.com/d0x3d"&gt;@d0x3d&lt;/a&gt;&lt;/p&gt;</content><category term="media"></category></entry><entry><title>pubs</title><link href="//www.d0x3d.com/article/pubs.html" rel="alternate"></link><published>2023-07-04T00:00:00-07:00</published><updated>2023-07-04T00:00:00-07:00</updated><author><name>Mark Gondree</name></author><id>tag:www.d0x3d.com,2023-07-04:/article/pubs.html</id><content type="html">&lt;p&gt;Find out more about our pedagogical goals and experiences with [d0x3d!]:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;M. Gondree, Z.N.J. Peterson, T. Denning, &lt;a href="http://www.computer.org/csdl/mags/sp/2013/03/msp2013030064-abs.html"&gt;Security through Play&lt;/a&gt;, IEEE Security &amp;amp; Privacy, 11(3), pp. 64-67, May-June 2013.&lt;/li&gt;
+&lt;li&gt;M. Gondree and Z.N.J. Peterson. &lt;a href="http://znjp.com/papers/gondree-cset13.pdf"&gt;Valuing Security by Getting [d0x3d!]: Experienecs with a network security board game&lt;/a&gt;. In: Proceedings of the USENIX Workshop on Cyber Security Experimentation and Test (CSET), 2013.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="media"></category></entry><entry><title>media</title><link href="//www.d0x3d.com/article/media.html" rel="alternate"></link><published>2023-07-03T00:00:00-07:00</published><updated>2023-07-03T00:00:00-07:00</updated><author><name>Mark Gondree</name></author><id>tag:www.d0x3d.com,2023-07-03:/article/media.html</id><content type="html">&lt;p&gt;[d0x3d!] has appeared in many places, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The 2013 and 2014 &lt;a href="https://epic.calpoly.edu/"&gt;Engineering Possibilities in College&lt;/a&gt; (EPIC) Summer Camp&lt;/li&gt;
+&lt;li&gt;The 2014 Paramount Future Scholars Summer Camp&lt;/li&gt;
+&lt;li&gt;The 2013 &lt;a href="https://www.socallinuxexpo.org/scale11x/presentations/cybersecurity-education-through-non-digital-games"&gt;Southern California Linux Expo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The 2012 NSF Scholarship for Service Symposium&lt;/li&gt;
+&lt;li&gt;The &lt;a href="http://raleigh.issa.org/conference.html"&gt;2012 ISSS Triange InfoSecCon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[d0x3d!] has been featured on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;EdGamer Podcase, &lt;a href="http://edreach.us/2013/01/12/edgamer-84-u-s-government-will-not-build-a-death-star/"&gt;Episode 84&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BBC Radio 5's &lt;a href="http://www.bbc.co.uk/podcasts/series/pods"&gt;Outriders podcast&lt;/a&gt;. Direct link to the interview &lt;a href="http://downloads.bbc.co.uk/podcasts/fivelive/pods/pods_20130101-0407b.mp3"&gt;is here&lt;/a&gt; (mnp3)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://niebezpiecznik.pl/post/d0x3d-gra-o-hackerach-idealna-na-zimowe-wieczory/"&gt;Niebezpiecznik.pl&lt;/a&gt; (A well-known Polish security blog)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://opensource.com/life/13/1/open-source-board-game-about-network-security-d0x3d"&gt;Opensource.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxaria.com/recensioni/an-open-source-board-game-about-network-security-d0x3d"&gt;Linuxaria.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="media"></category></entry></feed>

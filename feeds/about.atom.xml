@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>[d0x3d!] - about</title><link href="//www.d0x3d.com/" rel="alternate"></link><link href="//www.d0x3d.com/feeds/about.atom.xml" rel="self"></link><id>//www.d0x3d.com/</id><updated>2023-07-07T00:00:00-07:00</updated><entry><title>who</title><link href="//www.d0x3d.com/article/who.html" rel="alternate"></link><published>2023-07-07T00:00:00-07:00</published><updated>2023-07-07T00:00:00-07:00</updated><author><name>Mark Gondree</name></author><id>tag:www.d0x3d.com,2023-07-07:/article/who.html</id><content type="html">&lt;p&gt;[d0x3d!] is a collaboration between:&lt;/p&gt;
+&lt;p style="text-align: center"&gt;
+&lt;a href="http://znjp.com/"&gt;Zachary Peterson&lt;/a&gt;, Cal Poly San Luis Obispo
+&lt;br&gt;
+&lt;a href="http://gondree.com/"&gt;Mark Gondree&lt;/a&gt;, Sonoma State University
+&lt;br&gt;
+Kate Lockwood, CSU Monterey Bay
+&lt;br&gt;
+Joe Welch, Hartnell Community College
+&lt;/p&gt;
+
+&lt;p&gt;Partial support for [d0x3d!] was provided by the National Science Foundation [1] (Award No. &lt;a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1140561"&gt;1140561&lt;/a&gt; and &lt;a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1140575"&gt;1140575&lt;/a&gt;). In addition to [d0x3d!], this award funds a larger project called TableTop Security. TableTop Security is a multi-institutional initiative that explored novel and creative ways to incorporate cybersecurity topics into existing curricul through "serious" games.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content><category term="about"></category></entry><entry><title>inspiration</title><link href="//www.d0x3d.com/article/inspiration.html" rel="alternate"></link><published>2023-07-06T00:00:00-07:00</published><updated>2023-07-06T00:00:00-07:00</updated><author><name>Mark Gondree</name></author><id>tag:www.d0x3d.com,2023-07-06:/article/inspiration.html</id><content type="html">&lt;p&gt;Our game has been inspired and indluences by many fun games, including Steve Jackson's &lt;a href="http://www.boardgamegeek.com/boardgame/1250/hacker"&gt;Hacker&lt;/a&gt; and Matt Leacock's &lt;a href="http://www.boardgamegeek.com/boardgame/65244/forbidden-island"&gt;Forbidden Island&lt;/a&gt;, published by &lt;a href="http://www.gamewright.com/"&gt;Gamewright&lt;/a&gt;. We believe the latter's expressly cooperative play is integral to our social and pedagogical goals.&lt;/p&gt;</content><category term="about"></category></entry><entry><title>goals</title><link href="//www.d0x3d.com/article/goals.html" rel="alternate"></link><published>2023-07-02T00:00:00-07:00</published><updated>2023-07-02T00:00:00-07:00</updated><author><name>Mark Gondree</name></author><id>tag:www.d0x3d.com,2023-07-02:/article/goals.html</id><content type="html">&lt;p&gt;[d0x3d] is a game designed for informal computer security education, reflecting the following goals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Engage new audiences, especially groups under-represented in computer science&lt;/li&gt;
+&lt;li&gt;Be used both in and out of the classroom&lt;/li&gt;
+&lt;li&gt;Be accessible to schools without technology funds or computer access&lt;/li&gt;
+&lt;li&gt;Reinforce analyticsl-thinking and problem solving&lt;/li&gt;
+&lt;li&gt;Improve security literacy, while increasing awareness of security careers and technology&lt;/li&gt;
+&lt;li&gt;Inspire "adversarial thinking" and security role-playing&lt;/li&gt;
+&lt;li&gt;Challenge assumptions that are barriers to CS, in particular: the field is not anti-social or isolating, there is no steep or disqualifying learning curve, there are no signnificant equipment costs.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="about"></category></entry><entry><title>feedback</title><link href="//www.d0x3d.com/article/feedback.html" rel="alternate"></link><published>2023-07-01T00:00:00-07:00</published><updated>2023-07-01T00:00:00-07:00</updated><author><name>Mark Gondree</name></author><id>tag:www.d0x3d.com,2023-07-01:/article/feedback.html</id><content type="html">&lt;p&gt;We always welcome your feedback. In addition to our &lt;a href="http://groups.google.com/group/tabletopsecurity"&gt;Google Groups forum&lt;/a&gt;, you may contact us directly at:&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;
+&lt;a href="mailto:d0x3d@tabletopsecurity.com"&gt;d0x3d@tabletopsecurity.com&lt;/a&gt;
+&lt;/p&gt;</content><category term="about"></category></entry></feed>
