@@ -106,6 +106,3 @@ CUSTOM_CSS = 'css/d0x3d.css'
 
 # Caching
 LOAD_CONTENT_CACHE = False
-
-# Google Analytics GA4
-GOOGLE_ANALYTICS = "G-2XDGP6P58Q"
