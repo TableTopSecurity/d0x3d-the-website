@@ -74,12 +74,12 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_ARCHIVE_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_SOCIAL_ON_MENU = False
-MENUITEMS = (('welcome', 'index.html'),
-             ('get the game', 'get'),
-             ('ideas for use', 'ideas'),
-             ('about', 'about'),
-             ('faq', 'faq'),
-             ('media', 'media'),
+MENUITEMS = (('welcome', './index.html'),
+             ('get the game', './get'),
+             ('ideas for use', './ideas'),
+             ('about', './about'),
+             ('faq', './faq'),
+             ('media', './media'),
             )
 
 # Sidebar options
