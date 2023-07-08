@@ -5,7 +5,7 @@ A website for [d0x3d!]
     git clone git@github.com:TableTopSecurity/d0x3d-the-website.git
     cd d0x3d-the-website
     git fetch origin
-    git branch gh-pages origin/master
+    git branch gh-pages origin/main
 
 ### Setup conda environment
 	conda create --name d0x3d.com python=3
@@ -29,7 +29,7 @@ A website for [d0x3d!]
     #   Now we are about to re-generate the website in a `gh-pages` branch
     # Prep that by getting it up to date:
     git checkout gh-pages
-    git pull origin master
+    git pull origin main
 
     # now, switch back to the `source` branch
     git checkout source
@@ -38,8 +38,8 @@ A website for [d0x3d!]
     pelican content -o output -s publishconf.py
     ghp-import output
 
-    # now push the local `gh-pages` branch to the remote `master` branch
-    git push origin gh-pages:master
+    # now push the local `gh-pages` branch to the remote `main` branch
+    git push origin gh-pages:main
 
     # if you did this wrong, you'll get some type of merge error when
     #    you push gh-pages to the remote master branch and it will
