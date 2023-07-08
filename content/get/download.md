@@ -5,7 +5,7 @@ color: green
 
 [d0x3d!] is a 100% open-source game, licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US) License.
 
-<img class="pull-left game-tile" src="/images/router.png" width="200px" alt="" />
+<img class="pull-left game-tile" src="./images/router.png" width="200px" alt="" />
 
 All game materials are freely available form our [GitHub repository](https://github.com/TableTopSecurity/d0x3d-the-game).
 

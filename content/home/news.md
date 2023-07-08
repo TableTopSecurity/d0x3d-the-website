@@ -3,7 +3,7 @@ date: Jul 5, 2023
 align: right
 color: green
 
-We have released some [curriculum modules](/ideas) when using [d0x3d!] in the classroom.
+We have released some [curriculum modules](ideas) when using [d0x3d!] in the classroom.
 
 A paper on early experiences with [d0x3d!] appeared at CSET'13. Read a copy [here](http://znjp.com/papers/gondree-cset13.pdf).
 
