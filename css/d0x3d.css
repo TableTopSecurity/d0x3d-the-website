@@ -137,16 +137,17 @@ a.anchor {
     z-index: 1;
     position: absolute;
 }
+
 .game-title-right {
     right: 10px;
 }
 
 .game-bracket {
-  color: black;
+    color: black;
 }
 
 .game-name {
-  color: red;
+    color: red;
 }
 
 #game-jumbo, .game-jumbo {
@@ -234,6 +235,21 @@ a.anchor {
     position: relative;
     bottom: -90px;
     right: 0px;
+}
+
+.game-tile-img-right {
+    float: right;
+    width: 200px;
+    position: relative;
+    shape-outside: polygon(16% 0, 98% 16%, 84% 100%, 0 86%);
+    padding: 10px;
+}
+.game-tile-img-left {
+    float: left;
+    width: 200px;
+    position: relative;
+    shape-outside: polygon(10% 25%, 90% 10%, 100% 90%, 25% 100%);
+    padding: 10px;
 }
 
 #content.faq {
