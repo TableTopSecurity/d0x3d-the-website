@@ -2,8 +2,8 @@
 A website for [d0x3d!]
 
 ### Clone repository and work with `source` branch
-    git clone git@github.com:TableTopSecurity/d0x3d-the-website.git
-    cd d0x3d-the-website
+    git clone git@github.com:d0x3d-the-game/d0x3d-the-game.github.io.git
+    cd d0x3d-the-game.github.io
     git fetch origin
     git branch gh-pages origin/main
 
